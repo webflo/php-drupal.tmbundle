@@ -10,8 +10,8 @@
 
 $document = file_get_contents('php://stdin');
 
-$search = array('$', '`');
-$replace = array('\$', '\`');
+$search = array('$', '`', '}');
+$replace = array('\$', '\`', '\}');
 $document = str_replace($search, $replace, $document);
 
 if (strpos($document, '/**') !== 0) {
