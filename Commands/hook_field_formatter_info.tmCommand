@@ -21,6 +21,6 @@ include textmate_find_command('hook_field_formatter_info');
 	<key>tabTrigger</key>
 	<string>hook_field_formatter_info</string>
 	<key>uuid</key>
-	<string>0F87AE2A-2253-4F06-B78B-74F13FC1D6A4</string>
+	<string>8B5FECA8-7FA6-4B64-9B98-02C91890F3E2</string>
 </dict>
 </plist>

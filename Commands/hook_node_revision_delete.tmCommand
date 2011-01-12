@@ -21,6 +21,6 @@ include textmate_find_command('hook_node_revision_delete');
 	<key>tabTrigger</key>
 	<string>hook_node_revision_delete</string>
 	<key>uuid</key>
-	<string>F46EA31E-4B92-4427-A5FC-E4F4988D5B09</string>
+	<string>A47FCD04-FE1A-438D-9018-F8A1BE18C4C4</string>
 </dict>
 </plist>

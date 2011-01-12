@@ -21,6 +21,6 @@ include textmate_find_command('hook_block_view_alter');
 	<key>tabTrigger</key>
 	<string>hook_block_view_alter</string>
 	<key>uuid</key>
-	<string>28278B39-BC97-422B-B0F7-2E10AAA91C59</string>
+	<string>96079FD6-58D4-4D67-BC5B-6336307CF704</string>
 </dict>
 </plist>

@@ -21,6 +21,6 @@ include textmate_find_command('hook_node_submit');
 	<key>tabTrigger</key>
 	<string>hook_node_submit</string>
 	<key>uuid</key>
-	<string>FE4157E9-DE0A-47B6-9A84-804BC6B6D43F</string>
+	<string>2CF6B035-CFFC-4FEB-841E-58EB306FCA96</string>
 </dict>
 </plist>

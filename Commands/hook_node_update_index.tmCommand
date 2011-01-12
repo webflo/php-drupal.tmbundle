@@ -21,6 +21,6 @@ include textmate_find_command('hook_node_update_index');
 	<key>tabTrigger</key>
 	<string>hook_node_update_index</string>
 	<key>uuid</key>
-	<string>8E9E16E1-9028-4CC3-A675-A94456FE1981</string>
+	<string>90FD839F-EB2E-463F-A659-C9C5D1A11917</string>
 </dict>
 </plist>

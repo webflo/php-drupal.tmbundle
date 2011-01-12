@@ -21,6 +21,6 @@ include textmate_find_command('hook_node_view');
 	<key>tabTrigger</key>
 	<string>hook_node_view</string>
 	<key>uuid</key>
-	<string>167D2C36-49CA-4C0E-81DC-5585F11C3991</string>
+	<string>DB6B1B15-7429-4C6A-8F37-D537EEDC2CE7</string>
 </dict>
 </plist>

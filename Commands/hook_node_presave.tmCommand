@@ -21,6 +21,6 @@ include textmate_find_command('hook_node_presave');
 	<key>tabTrigger</key>
 	<string>hook_node_presave</string>
 	<key>uuid</key>
-	<string>68BEDA31-8A5B-4BC4-8C37-B9812754CD38</string>
+	<string>E883FEE5-0BA6-4304-B5EA-42E232EB2971</string>
 </dict>
 </plist>

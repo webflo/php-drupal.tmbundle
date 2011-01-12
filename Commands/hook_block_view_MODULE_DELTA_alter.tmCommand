@@ -21,6 +21,6 @@ include textmate_find_command('hook_block_view_MODULE_DELTA_alter');
 	<key>tabTrigger</key>
 	<string>hook_block_view_MODULE_DELTA_alter</string>
 	<key>uuid</key>
-	<string>EDC51AC6-4B1B-46E0-B7CA-9D99CF378318</string>
+	<string>D41D7E0C-0A2F-4580-9561-71F7E108AADB</string>
 </dict>
 </plist>
